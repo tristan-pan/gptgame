@@ -1,5 +1,8 @@
 # gptgame
 
+kronos/cronus titan of time
+
+
 ## Description
 AI Lifeguard Simulator is an innovative game that combines artificial intelligence with the challenging world of lifeguarding. Players take on the role of a lifeguard, using AI-powered tools to monitor beaches, predict potential dangers, and save lives.
 
